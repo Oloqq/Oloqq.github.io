@@ -2,6 +2,15 @@
 
 Edytowana w [editor on GitHub](https://github.com/Oloqq/Oloqq.github.io/edit/main/index.md) ale tylko trochę, bo trzeba zachować kreatywność na rozwiązywanie zadań z algebry
 
+# Opis projektu
+
+<i>Projekt o niezwykle ambitnym celu udało nam się w pewnym stopniu zrealizować. Stworzyliśmy zalążek całego programu dla społeczności studenckiej, NIestety ze względu na brak odpowiednich zabezpieczeń nie udało nam się go przetestować na większej liczbie odbiorców
+Współtwórcami projektu byli:</i>
+
+- [Julia Maciaszek](https://github.com/julemac)
+- [Eryk Mikołajek](https://github.com/ErykMikolajek)
+- [Jakub Kubicki](https://github.com/kubijaku)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
